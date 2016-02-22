@@ -1,0 +1,7 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "0f70472844f3b0583c84a415c443d19f"
+build_time: [509428685, 288243000]
+inputs:
+  "/Users/yuxiangtang1/Documents/IOS Programming/TipCalculator/TipCalculator/AppDelegate.swift": [509353421, 0]
+  "/Users/yuxiangtang1/Documents/IOS Programming/TipCalculator/TipCalculator/ViewController.swift": [509428685, 0]
+  "/Users/yuxiangtang1/Documents/IOS Programming/TipCalculator/TipCalculator/Extensions.swift": [509418461, 0]
